@@ -1,0 +1,37 @@
+.left-div{
+    width: 40%;float: left;
+}
+.left-div h1,p{
+    color: white;
+}
+.left-div h1{
+    font-size: 55px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.right{
+    width: 60%;
+}
+.hero-ariea{
+    width: 80%;
+    margin: 0 auto;
+}
+.cart{
+    float: left;
+    margin-left: 20px;
+}
+.cart-title{
+    margin-top: -50px;
+    margin-left: 10px;
+    color: white;
+}
+.container{
+    padding-top: 120px;
+}
+.right-div{
+    margin-right: -100px;
+}
+.cart-img{
+    height: 300px;
+}
+

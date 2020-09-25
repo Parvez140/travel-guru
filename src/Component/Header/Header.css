@@ -1,0 +1,23 @@
+.nav{
+    width: 80%;
+    margin: 0 auto;
+}
+.header{
+    height: 650px;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+.logo{
+    width: 120px;
+    color: white;
+    filter: brightness(800%);
+}
+.menu{
+    margin-right: 25px;
+    display: inline;
+    color: white;
+}
+Form{
+    margin-left: 30px;
+}
+
